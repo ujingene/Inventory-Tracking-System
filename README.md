@@ -5,12 +5,12 @@ This is an inventory Management system for tracking inventory items. Its built u
 - Two session types (User and Admin)
 - User can check Items owned and can request service from the administrator
 - Admin can perfomr the following
-** Create New,  Edit,  Delete Employees **
-** ** Add, Delete, Edit Inventory
-** ** View items Report (Assigned and Available Inventory)
-** ** Add, Edit and Delete Roles/Positions
-** ** View All Departments
-** ** Manage all User Requests
+    - **Create New,  Edit,  Delete Employees**
+    - **Add, Delete, Edit Inventory**
+    - **View items Report (Assigned and Available Inventory)**
+    - **Add, Edit and Delete Roles/Positions**
+    - **View All Departments**
+    - **Manage all User Requests**
 
 ### Required Development Environment. 
 
