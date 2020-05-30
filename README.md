@@ -20,6 +20,9 @@ If on Windows install Xampp which comes prebundled with apache2 and Mysql
 ```
 
 ### Clone the App from github
+```
+https://github.com/ujingene/Inventory-Tracking-System.git
+```
 Copy the Root Project folder inside `htdocs` in Xampp folder
 Import the Database file to your db.
 
