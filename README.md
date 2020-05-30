@@ -1,7 +1,22 @@
 This is an inventory Management system for tracking inventory items. Its built using Vanilla PHP and Vanilla Javascript. It persist data to Mysql Database. The available functions from the system are.
 
-- Beautifully crafted Items Dashboard
 - login/Registraion Interface
+![Login Page](https://github.com/ujingene/Inventory-Tracking-System/blob/master/images/psa1.PNG)
+
+- User Dashboard
+![User Dashboard](https://github.com/ujingene/Inventory-Tracking-System/blob/master/images/psa1.PNG)
+
+- User Requests
+![User Requests](https://github.com/ujingene/Inventory-Tracking-System/blob/master/images/requests.PNG)
+
+- Admin Dashboard
+![Inventories](https://github.com/ujingene/Inventory-Tracking-System/blob/master/images/inventory.PNG)
+
+![View Item](https://github.com/ujingene/Inventory-Tracking-System/blob/master/images/viewitem.PNG)
+
+![View Item](https://github.com/ujingene/Inventory-Tracking-System/blob/master/images/report1.PNG)
+
+- Beautifully crafted Items Dashboard
 - Two session types (User and Admin)
 - User can check Items owned and can request service from the administrator
 - Admin can perfomr the following
